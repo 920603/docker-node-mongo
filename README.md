@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Docker Node MongoDB Example
 
 > Simple example of a dockerized Node/Mongo app
@@ -18,3 +19,6 @@ volumes: ['./:/usr/src/app']
 # To re-build
 docker-compose build
 ```
+=======
+# docker-node-mongo
+>>>>>>> bfc067c7c3b35eb7f59b4a5bb21df14d7be784a2
